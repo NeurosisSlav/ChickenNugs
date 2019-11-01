@@ -1,0 +1,6 @@
+{
+   "parent": "item/generated",
+   "textures": {
+       "layer0": "cnm:items/test2_chicken_nugget"
+   }
+}
